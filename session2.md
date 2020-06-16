@@ -1,12 +1,12 @@
 ## Session 2
 
 ### Commands
-$ nslookup <domain>
-$ whois <IP address>
-$ dig <domain>
-$ nc -v <IP address> <port>
-$ netstat -ant
-$ sslscan <domain>
+- `$ nslookup <domain>`
+- `$ whois <IP address>`
+- `$ dig <domain>`
+- `$ nc -v <IP address> <port>`
+- `$ netstat -ant`
+- `$ sslscan <domain>`
 
 
 ### Questions asked
