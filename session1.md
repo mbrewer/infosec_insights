@@ -28,12 +28,12 @@
 - SSH - 22
 
 ### Next steps
-1) Subject areas to focus on
+1) Subject areas to focus on:
 - TCP/IP, networking
 - OS => Linux, Windows
 - Bash
 
-2) Set up a web server
+2) Set up a web server:
 - Can use VPS => AWS, Vultr / Linode
 - VM like VMware
 
@@ -41,7 +41,7 @@
 
 
 --
-* Most people are not as smart as you think you are
+* Most people are not as smart as you think they are
 * Most people are not qualified for their jobs
 
 
