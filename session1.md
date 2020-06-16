@@ -28,7 +28,7 @@ Ports
 - SSH - 22
 
 ### Next steps
-1)
+1) Subject areas to focus on
 - TCP/IP, networking
 - OS => Linux, Windows
 - Bash
@@ -39,6 +39,8 @@ Ports
 
 3) Check out some Udemy courses
 
+
+--
 * Most people are not as smart as you think you are
 * Most people are not qualified for their jobs
 
