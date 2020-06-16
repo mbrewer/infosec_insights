@@ -1,7 +1,7 @@
 ### Top Notes
-Resume looks good
-Being able to code => good
-Networking => TCP/IP
+- Resume looks good
+- Being able to code => good
+- Networking (TCP/IP) needs to be strong
 
 ### Overall goals
 1. Study
@@ -9,16 +9,16 @@ Networking => TCP/IP
 3. Fix and break
 
 ### Meta things
-How to learn
-How to interview
+- How to learn
+- How to interview
 
 ### Interviewing
-Ask for the salary range
-If they want to play games, you can walk
+- Ask for the salary range
+- If they want to play games, you can walk
 
 ### Need to learn
-How to put up a server on Linux (var www)
-Ports
+1. How to put up a server on Linux (var www)
+2. Ports
 - SMTP - 25
 - IMAP - 143
 - HTTP - 80
